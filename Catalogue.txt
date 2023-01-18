@@ -1,0 +1,10 @@
+100000 18 54.98 Simon - Ages 7 up. 
+100001 15 34.98 Pictionary - Ages 12 up. English.
+100002 19 36.98 Taboo - Ages 12 up.
+100003 14 21.98 The Game Of Life - Ages 9 up. English.
+100004 21 18.98 Scrabble - Ages 8 up. English.
+100005 33 17.98 Monopoly - Ages 8 up. English.
+100006 14 31.98 Scattergories - Ages 12 up.
+100007 16 19.98 Ouija Board - Ages 8 up.
+100008 15 17.98 Connect Four - Ages 7 up.
+100009 25 17.98 Twister - Ages 6 up.
